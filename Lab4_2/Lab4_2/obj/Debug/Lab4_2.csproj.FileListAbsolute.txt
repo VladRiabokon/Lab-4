@@ -1,0 +1,7 @@
+D:\github\Lab-4\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe.config
+D:\github\Lab-4\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe
+D:\github\Lab-4\Lab4_2\Lab4_2\bin\Debug\Lab4_2.pdb
+D:\github\Lab-4\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.AssemblyReference.cache
+D:\github\Lab-4\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+D:\github\Lab-4\Lab4_2\Lab4_2\obj\Debug\Lab4_2.exe
+D:\github\Lab-4\Lab4_2\Lab4_2\obj\Debug\Lab4_2.pdb
